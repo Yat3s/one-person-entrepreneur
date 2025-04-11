@@ -1,6 +1,6 @@
 # one-person-entrepreneur
-AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的各项 AI 技能
-掌握这些 AI 工具，成为超级个体，一个人也可以开公司。
+AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的各项 AI 技能  
+掌握这些 AI 工具，成为超级个体，一个人也可以开公司。  
 **注意**：由于 AI 更新迭代太快，这些工具仅代表 **2025/4** 的市场水平。
 
 ---
@@ -9,13 +9,13 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 
 主要用于解决日常问题，如翻译、科普解释、产品或公司命名等。
 
-- **T0**: ChatGPT (o1/o3-mini)
-- **T1**: DeepSeek / Grok 3
+- **T0**: [ChatGPT (o1/o3-mini)](https://chat.openai.com/)
+- **T1**: [DeepSeek](https://deepseek.ai/) / [Grok 3](https://grok.ai/)
 
 **国内高性价比选择：**
 
-- 豆包
-- 元宝
+- [豆包](https://www.doubao.ai/)
+- [元宝](https://www.yuanbao.ai/)
 
 ---
 
@@ -23,13 +23,13 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 
 优先使用以下 AI 搜索工具（若无法搜索到信息再考虑使用 Google 搜索）：
 
-- **T0**: Perplexity AI
-- **T1**: ChatGPT (search) / Grok 3
+- **T0**: [Perplexity AI](https://www.perplexity.ai/)
+- **T1**: [ChatGPT (search)](https://chat.openai.com/) / [Grok 3](https://grok.ai/)
 
 **国内高性价比选择：**
 
-- Kimi
-- 夸克
+- [Kimi](https://kimi.ai/)
+- [夸克](https://www.quark.cn/)
 
 ---
 
@@ -37,25 +37,25 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 
 ### 海报/Logo 制作
 
-- **T0**: ChatGPT (4o)
-- **T1**: 豆包（即梦 V3）
+- **T0**: [ChatGPT (4o)](https://openai.com/product/gpt-4)
+- **T1**: [豆包（即梦 V3）](https://www.doubao.ai/)
 
 ### 物体（人物）图像制作
 
-- **T0**: Midjourney V7
+- **T0**: [Midjourney V7](https://www.midjourney.com/home/)
 
 ### 语音/视频转文本
 
-- 通义千问
+- [通义千问](https://www.tongyiqianwen.com/)
 
 ### 图像编辑
 
-- **T0**: ChatGPT (4o)
-- **T1**: 豆包（即梦 V3）/ Gemini-2.0-Flash
+- **T0**: [ChatGPT (4o)](https://openai.com/product/gpt-4)
+- **T1**: [豆包（即梦 V3）](https://www.doubao.ai/) / [Gemini-2.0-Flash](https://www.example.com/gemini-2.0-flash)
 
 ### 其他工具
 
-- remove.bg
+- [remove.bg](https://www.remove.bg/)
 
 ---
 
@@ -75,26 +75,26 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 
 作为浏览器插件使用，对于日常 AI 翻译、总结、解释、收藏等功能非常有帮助，建议只选用一款。
 
-- **T0**: Sider.ai
-- **T1**: 豆包 / Monica
+- **T0**: [Sider.ai](https://sider.ai/)
+- **T1**: [豆包](https://www.doubao.ai/) / [Monica](https://www.monica.ai/)
 
 ---
 
 ## 开发应用（编程问题）
 
-- **T0**: Cursor (Claude 3.7 Max)
+- **T0**: [Cursor (Claude 3.7 Max)](https://cursor.so/)
 - **T1**: （此处暂无推荐）
 
 ---
 
 ## AI 信息了解渠道
 
-- **T0**: 新智元 / Founder Park / 赛博禅心 / 数字生命卡兹克
-- **T1**: Geek4Fun 😄
+- **T0**: [新智元](https://www.xinyiyuan.com/) / [Founder Park](https://founderpark.com/) / [赛博禅心](https://www.example.com/saibochanxin) / [数字生命卡兹克](https://www.example.com/shuzishengmengkazike)
+- **T1**: [Geek4Fun 😄](https://geek4fun.org/)
 
 ---
 
 ## 视频录制
 
-- ScreenStudio
-- 剪映
+- [ScreenStudio](https://www.screenstudio.app/)
+- [剪映](https://www.jianyingapp.com/)
