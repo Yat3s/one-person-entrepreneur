@@ -10,12 +10,12 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 主要用于解决日常问题，如翻译、科普解释、产品或公司命名等。
 
 - **T0**: [ChatGPT (o1/o3-mini)](https://chat.openai.com/)
-- **T1**: [DeepSeek](https://deepseek.ai/) / [Grok 3](https://grok.ai/)
+- **T1**: [DeepSeek](https://deepseek.com/) / [Grok 3](https://x.ai/)
 
 **国内高性价比选择：**
 
-- [豆包](https://www.doubao.ai/)
-- [元宝](https://www.yuanbao.ai/)
+- [豆包](https://www.doubao.com/)
+- [元宝](https://yuanbao.tencent.com/)
 
 ---
 
@@ -24,12 +24,12 @@ AI skill set for solopreneur/one-person-company, 单人企业家需要掌握的�
 优先使用以下 AI 搜索工具（若无法搜索到信息再考虑使用 Google 搜索）：
 
 - **T0**: [Perplexity AI](https://www.perplexity.ai/)
-- **T1**: [ChatGPT (search)](https://chat.openai.com/) / [Grok 3](https://grok.ai/)
+- **T1**: [ChatGPT (search)](https://chat.openai.com/) / [Grok 3](https://x.ai/)
 
 **国内高性价比选择：**
 
 - [Kimi](https://kimi.ai/)
-- [夸克](https://www.quark.cn/)
+- [夸克](https://yuanbao.tencent.com/)
 
 ---
 
